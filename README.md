@@ -8,7 +8,7 @@
 
 ---
 
-## ✅ [交个朋友VPN,永久免费](https://befriends.one)
+## ✅ [交个朋友VPN,永久免费](https://go.befriends.wiki)
 
 
 
