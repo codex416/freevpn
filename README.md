@@ -2,7 +2,7 @@
 
 ---
 
-## ✅ [应急节点](https://go.befriendss.wiki)
+## ✅ [应急节点](https://go.befriends.wiki)
 
 ⚠️ 仅供应急使用，订阅链接周期性失效，请勿长期依赖
 
