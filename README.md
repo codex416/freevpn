@@ -90,7 +90,6 @@ macOS 常见选择包括 Clash Verge Rev、V2rayU 和 sing-box。
 
 遇到连接、订阅或客户端使用方面的问题，可以前往 [Telegram 用户群](https://t.me/befriendsgroup) 获取帮助。
 
-请勿在社区发布其他产品的推广信息，并注意保护自己的账号、订阅链接和个人信息。
 
 ## 更新说明
 
