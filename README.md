@@ -2,7 +2,6 @@
 
 > 交个朋友 VPN 是面向 Windows、macOS、Linux、iPhone、iPad 和 Android 用户的网络服务与使用指南，围绕 VPN、代理客户端、订阅配置、AI 服务、流媒体和跨境网络使用场景整理实用资料。
 >
-> **交个朋友 VPN，永久免费。**
 
 [官方网站](https://交个朋友.com) · [教程文档](https://befriends.wiki) · [Telegram 用户群](https://t.me/befriendsgroup)
 
