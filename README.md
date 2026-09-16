@@ -334,21 +334,6 @@ VPN 是网络连接服务或技术概念，Clash 是代理客户端及其配置�
 - **教程文档**：[befriends.wiki](https://befriends.wiki)
 - **Telegram 用户群**：[t.me/befriendsgroup](https://t.me/befriendsgroup)
 
-## 项目结构
 
-```text
-freevpn/
-├── README.md
-└── docs/
-    ├── ai-services.md
-    ├── clients.md
-    ├── faq.md
-    ├── networking.md
-    ├── platforms.md
-    ├── protocols.md
-    ├── streaming.md
-    ├── troubleshooting.md
-    └── use-cases.md
-```
 
 **最后更新：2026-09-16**
